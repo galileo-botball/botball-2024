@@ -15,10 +15,10 @@ Students that are committed to Botball and capable of competing in 2024.
 #### Qualification
 
 1. Complete the following coding challenges before 11/28/2023.
-   - a. Variables
-   - b. Functions
-   - c. Conditionals
-   - d. Loops
+   - a. [Variables](https://github.com/galileo-botball/botball-2024/blob/main/qualification-challenges/variables/challenge.md)
+   - b. Conditionals
+   - c. Loops
+   - d. Functions
 
 #### Roster
 

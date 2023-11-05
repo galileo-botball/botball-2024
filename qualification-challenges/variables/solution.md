@@ -4,9 +4,9 @@
 
 int main()
 {
-    int claw = 3;
+    int claw_servo = 3;
     int open = 0;
-    int closed = 2048;
+    int close = 2048;
 
     printf("The claw is on servo number %d. \n", 3);
     printf("Setting servo position to %d open the claw. \n", open);

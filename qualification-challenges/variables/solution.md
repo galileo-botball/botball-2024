@@ -10,6 +10,6 @@ int main()
 
     printf("The claw is on servo number %d. \n", 3);
     printf("Setting servo position to %d open the claw. \n", open);
-    printf("Setting servo position to %d closes the claw. \n", closed);
+    printf("Setting servo position to %d closes the claw. \n", close);
 }
 ```

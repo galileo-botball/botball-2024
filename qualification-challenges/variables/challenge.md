@@ -52,8 +52,6 @@ int main()
 11. Create an `int` variable called `open` and store the value `0` in it.
 12. Create an `int` variable called `close` and store the value `2048` in it.
 13. Run your code and fix any errors.
-14. Send the completed code, via Microsoft Teams, to your coach.
-15. Reply with the "thumbs up" emoji to the challenge post in Microsoft Teams.
 
 # References
 

@@ -46,7 +46,8 @@ Announced on 12/5/2023.
   - [Nerd Herd - 2023 Analysis - Regional](https://www.youtube.com/watch?v=xgCPRXlJI1k)
   - [Nerd Herd - 2023 Analysis - GCER](https://www.youtube.com/watch?v=B6xfd2BPE-8)
 
-- Documentation
+- Libraries
 
   - ["Wallaby" Standard Library](https://files.kipr.org/wallaby/wallaby_doc/index.html)
     - This is also the library for Wombats.
+  - [Creating a Function Library](https://www.youtube.com/watch?v=WXfreJXcWgY)

@@ -102,8 +102,6 @@ int main()
 8. Read all the code you just copied, to yourself, line by line.
 9. Complete the code in the areas marked as `TODO`.
 10. Run your code and fix any errors.
-11. Send the completed code, via Microsoft Teams, to your coach.
-12. Reply with the "thumbs up" emoji to the challenge post in Microsoft Teams.
 
 # References
 

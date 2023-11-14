@@ -38,6 +38,10 @@ Announced on 12/5/2023.
   - [Community](https://discord.gg/TSSkKxR7Hd)
   - [KIPR Developers](https://discord.gg/xXamUtmU)
 
+- This Year (2024)
+
+  - [Fall Game Board](https://github.com/galileo-botball/botball-2024/blob/main/images/fall-game-board.png)
+
 - Last Year (2023)
 
   - [KIPR 2023 Game Review](https://www.kipr.org/wp-content/uploads/2023%20Botball/2023%20Botball%20Game%20Review%20v1.2.pdf)

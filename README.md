@@ -40,7 +40,7 @@ Announced on 12/5/2023.
 
 - This Year (2024)
 
-  - [Fall Game Board](https://github.com/galileo-botball/botball-2024/blob/main/images/Fall-Game-Board.png)
+  - [Fall Game Board](https://github.com/galileo-botball/botball-2024/blob/main/images/fall-game-board.png)
 
 - Last Year (2023)
 

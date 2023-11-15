@@ -23,7 +23,7 @@ Students that are committed to Botball and capable of competing in 2024.
   
 ##### "Board" Challenges
 
-1. Complete one assigned "board" challenge with a teammate.
+1. Complete one assigned "board" challenge with an assigned teammate.
    - a. [Corrupt Files and Files]()
    - b. [Encryption Keys]()
    - c. [Alarm]()

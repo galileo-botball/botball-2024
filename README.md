@@ -59,6 +59,7 @@ Announced on 12/5/2023.
   - [Nerd Herd - 2023 Analysis - Fall](https://www.youtube.com/watch?v=BHABUw1UFl8)
   - [Nerd Herd - 2023 Analysis - Regional](https://www.youtube.com/watch?v=xgCPRXlJI1k)
   - [Nerd Herd - 2023 Analysis - GCER](https://www.youtube.com/watch?v=B6xfd2BPE-8)
+  - [HTL-Anchstraße - 2023 Mechanical Review](https://www.youtube.com/watch?v=Wzuv4gFlMTU)
 
 - Libraries
 

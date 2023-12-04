@@ -14,7 +14,7 @@
 
 ## Scoring
 
-1. POMs touching any black tap score zero points.
+1. POMs touching any black tape score zero points.
 2. Each POM in the "Cybersecurity Lab" scores 10 points.
 3. Each POM in the "Backup Room" scores 20 points.
 4. Each POM in the "Analysis Lab" scores 30 points.

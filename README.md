@@ -20,18 +20,15 @@ Students that are committed to Botball and capable of competing in 2024.
    - a. [Variables](https://github.com/galileo-botball/botball-2024/blob/main/qualification-challenges/variables/challenge.md)
    - b. [Functions](https://github.com/galileo-botball/botball-2024/blob/main/qualification-challenges/functions/challenge.md)
    - c. [Loops and Conditionals](https://github.com/galileo-botball/botball-2024/blob/main/qualification-challenges/loops-and-conditionals/challenge.md)
-  
+
 ##### "Board" Challenges
 
-1. Complete one assigned "board" challenge with an assigned teammate.
-   - a. [Corrupt Files and Files]()
-   - b. [Encryption Keys]()
-   - c. [Alarm]()
-   - d. [Patch Holder]()
+1. Complete assigned "board" challenge with an assigned teammate.
+   - a. [POMs](https://github.com/galileo-botball/botball-2024/blob/main/qualification-challenges/poms/challenge.md)
 
 #### Roster
 
-Announced on 12/5/2023.
+TBD
 
 ### Development Team
 
@@ -50,6 +47,7 @@ Announced on 12/5/2023.
 
 - This Year (2024)
 
+  - [Fall Game Review](https://github.com/galileo-botball/botball-2024/blob/main/documents/2024-fall-game-review-v1.0.pdf)
   - [Fall Game Board](https://github.com/galileo-botball/botball-2024/blob/main/images/fall-game-board.png)
 
 - Last Year (2023)

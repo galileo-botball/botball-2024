@@ -19,6 +19,7 @@
 3. Each POM in the "Backup Room" scores 20 points.
 4. Each POM in the "Analysis Lab" scores 30 points.
 5. Each POM in the "Watch Floor" scores 40 points.
+6. 2x score multiplier for "tophat" sensor value usage.
 
 ## Run Rules
 

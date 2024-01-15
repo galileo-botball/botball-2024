@@ -4,13 +4,13 @@
 
 ### 700
 
-Captain: Harrison
-Builders and Coders: Emma, Kyson, Tavin, Will
+* Captain: Harrison
+* Builders and Coders: Emma, Kyson, Tavin, Will
 
 ### 752
 
-Captain: Aloy
-Builders and Coders: Jaten, Jonathan, Liam, Theron
+* Captain: Aloy
+* Builders and Coders: Jaten, Jonathan, Liam, Theron
 
 #### Commitment
 

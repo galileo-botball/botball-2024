@@ -2,15 +2,20 @@
 
 ## Teams
 
-### Competition Team
+### 700
 
-Students that are committed to Botball and capable of competing in 2024.
+Captain: Harrison
+Builders and Coders: Emma, Kyson, Tavin, Will
+
+### 752
+
+Captain: Aloy
+Builders and Coders: Jaten, Jonathan, Liam, Theron
 
 #### Commitment
 
 1. Attend all Tuesday sessions during the school year.
 2. Attend all Summer sessions leading up to GCER in July.
-3. Complete Honor Code and Team Commitment form with parent signature.
 
 #### Qualification
 
@@ -25,18 +30,6 @@ Students that are committed to Botball and capable of competing in 2024.
 
 1. Complete assigned "board" challenge with an assigned teammate.
    - a. [POMs](https://github.com/galileo-botball/botball-2024/blob/main/qualification-challenges/poms/challenge.md)
-
-#### Roster
-
-TBD
-
-### Development Team
-
-Students that are training to be capable of competing in coming years.
-
-#### Roster
-
-Announced on 12/5/2023.
 
 ## Reference
 
